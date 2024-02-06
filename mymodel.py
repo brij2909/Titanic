@@ -8,7 +8,7 @@ import sys
 import matplotlib.pyplot as plt
 
 
-# Import Machine Learning Liabraries
+# Import Machine Learning Liabraries:
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
