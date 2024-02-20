@@ -109,6 +109,7 @@ print(X_test_prediction)
 test_data_accuracy = accuracy_score(Y_test, X_test_prediction)*100
 print('Accuracy Score Of Test Data is ', test_data_accuracy)
 print('----------------------------------------------------------------')
+
 import pickle
 
 # Assuming 'model' is your trained machine learning model
